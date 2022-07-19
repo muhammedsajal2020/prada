@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+.container1{
+    display: flex;
+    width: 100%;
+    height: 70px;
+   background-color: white; 
+   border-bottom: 1px;
+   border-color: rgb(66, 66, 66);
+  
+}
+.imglogo{
+    margin-top: 18px;
+}
+.linkstyle{
+    margin-left: 100px;
+    margin-top: 30px;
+    
+    
+}
+.Atag{
+    margin: 20px;
+    color: black;
+}
+a:hover, a:visited, a:link, a:active {
+
+    text-decoration: none;
+
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.search{
+    margin-left:480px;
+    margin-top: 20px;
+    border: 0;
+}
+.imgsearchlogo{
+    margin-top: 18px;
+}
+.textborder{
+    border: 0;
+}
+.container2{
+    display: flex;
+    grid-gap: 20px;
+    padding-top: 20px;
+    padding: 10px;
+  
+
+}
+.cotainer2a{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+        height: 600px;
+        background-image: url(https://www.prada.com/content/dam/pradanux/home_page/2022/06/pacchetto_bianco/mosaic_1_v5/Card_1_DT.jpg/_jcr_content/renditions/cq5dam.web.1664.1664.webp);
+        background-size: 100%;
+        
+   
+}
+.img1{
+   width: 100%;
+   padding: 10px;
+   
+}
+.cotainer2b{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+        height: 600px;
+        background-image: url(https://www.prada.com/content/dam/pradanux/home_page/2022/06/pacchetto_bianco/mosaic_1_v5/Card_2_DT.jpg/_jcr_content/renditions/cq5dam.web.1664.1664.webp);
+        background-size: 100%;
+        
+   
+}
+.img2{
+   width: 100%;
+   padding: 10px;
+}
+.font{
+    font-family: benton-sans,sans-serif;
+    font-weight: 700;
+    font-size: 1.625rem;
+    line-height: 1;
+    display: inline-block;
+    padding-bottom: 0.4375rem;
+    margin-left: 10px;
+}
+.DISCOVER{
+    padding: 30px 30px;
+    
+}
+.imgHead{
+    font-size: large;
+}
+.a{
+    color: black;
+}
+.DISCOVER2{
+    margin-top: 10px;
+}
+.containerone{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.box1{
+    padding: 10.8%;
+}
+.size{
+    width: 150%;
+}
+.name1{
+    text-align: center;
+    margin-top: 700px;
+}
+.DISCOVER3{
+    margin-left: 25px;
+}
+
+
+
+
+
+
+.container4{
+    display: flex;
+    grid-gap: 20px;
+    padding-top: 20px;
+    padding: 10px;
+  
+
+}
+.cotainer4a{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+        height: 600px;
+        background-image: url(https://www.prada.com/content/dam/pradanux/home_page/2022/06/pacchetto_bianco/mosaic_2_v2/Card_1_DT.jpg/_jcr_content/renditions/cq5dam.web.1664.1664.webp);
+        background-size: 100%;
+        
+   
+}
+.cotainer4b{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+        height: 600px;
+        background-image: url(https://www.prada.com/content/dam/pradanux/home_page/2022/06/pacchetto_bianco/mosaic_2_v2/Card_2_DT.jpg/_jcr_content/renditions/cq5dam.web.1664.1664.webp);
+        background-size: 100%;
+        
+   
+}
+.container5{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 60px;
+
+}
+.imlast{
+    margin-left: 300px;
+}
+.ss2{
+    color: white;
+    margin-left: 300px;
+    
+}
+.DISCOVERLAST{
+    color: white;
+    margin-left: 300px;
+}
+.Z{
+    color: white;
+}
+.lastlist{
+    width: 100%;
+    display: flex;
+    height: 500px;
+}
+.linktext{
+    color: rgb(71, 71, 71);
+    font-family: benton-sans,sans-serif;
+    font-weight: 400;
+    font-size: .875rem;
+    letter-spacing: .0125rem;
+    color: #000;
+    margin-bottom: 0.5625rem;
+    width: 100%;
+}
+.x1{
+    margin-left: 30px;
+}
+.x2{
+    margin-left: 300px;
+}
+.social{
+    margin-top: 40px;
+    margin-left: 600px;
+}
